@@ -1,0 +1,189 @@
+[ 
+  {
+    "name": "Water",
+    "nitrogen": 0,
+    "phosphorus": 0,
+    "potassium": 0,
+    "calcium": 0,
+    "magnesium": 0,
+    "sulfur": 0,
+    "water": 100,
+    "cost": 0.1
+  },
+  {
+    "name": "All-Purpose Balanced 10-10-10",
+    "nitrogen": 110,
+    "phosphorus": 110,
+    "potassium": 110,
+    "calcium": 110,
+    "magnesium": 110,
+    "sulfur": 110,
+    "water": 110,
+    "cost": 1
+  },
+  {
+    "name": "Lawn Starter 24-8-16",
+    "nitrogen": 24,
+    "phosphorus": 8,
+    "potassium": 16,
+    "calcium": 0,
+    "magnesium": 1,
+    "sulfur": 4,
+    "water": 0,
+    "cost": 25
+  },
+  {
+    "name": "Bloom Booster 10-30-20",
+    "nitrogen": 10,
+    "phosphorus": 30,
+    "potassium": 20,
+    "calcium": 0,
+    "magnesium": 0.5,
+    "sulfur": 3,
+    "water": 0,
+    "cost": 30
+  },
+  {
+    "name": "Root & Winter Guard 6-2-20",
+    "nitrogen": 6,
+    "phosphorus": 2,
+    "potassium": 20,
+    "calcium": 0.5,
+    "magnesium": 0.5,
+    "sulfur": 1,
+    "water": 0,
+    "cost": 22
+  },
+  {
+    "name": "Organic Fish Emulsion 5-1-1",
+    "nitrogen": 5,
+    "phosphorus": 1,
+    "potassium": 1,
+    "calcium": 0.5,
+    "magnesium": 0.2,
+    "sulfur": 0.3,
+    "water": 50,
+    "cost": 18
+  },
+  {
+    "name": "Rose & Flower Food 12-18-10",
+    "nitrogen": 12,
+    "phosphorus": 18,
+    "potassium": 10,
+    "calcium": 2,
+    "magnesium": 1,
+    "sulfur": 5,
+    "water": 0,
+    "cost": 28
+  },
+  {
+    "name": "Tomato & Vegetable Blend 4-6-8",
+    "nitrogen": 4,
+    "phosphorus": 6,
+    "potassium": 8,
+    "calcium": 5,
+    "magnesium": 1.5,
+    "sulfur": 1,
+    "water": 0,
+    "cost": 20
+  },
+  {
+    "name": "Acid-Lovers' Special 30-10-10",
+    "nitrogen": 30,
+    "phosphorus": 10,
+    "potassium": 10,
+    "calcium": 0,
+    "magnesium": 0,
+    "sulfur": 8,
+    "water": 0,
+    "cost": 35
+  },
+  {
+    "name": "Urea 46-0-0",
+    "nitrogen": 46,
+    "phosphorus": 0,
+    "potassium": 0,
+    "calcium": 0,
+    "magnesium": 0,
+    "sulfur": 0,
+    "water": 0,
+    "cost": 40
+  },
+  {
+    "name": "Triple Superphosphate 0-46-0",
+    "nitrogen": 0,
+    "phosphorus": 46,
+    "potassium": 0,
+    "calcium": 12,
+    "magnesium": 0,
+    "sulfur": 1,
+    "water": 0,
+    "cost": 45
+  },
+  {
+    "name": "Muriate of Potash 0-0-60",
+    "nitrogen": 0,
+    "phosphorus": 0,
+    "potassium": 60,
+    "calcium": 0,
+    "magnesium": 0,
+    "sulfur": 0,
+    "water": 0,
+    "cost": 50
+  },
+  {
+    "name": "Calcium Nitrate 15.5-0-0",
+    "nitrogen": 15.5,
+    "phosphorus": 0,
+    "potassium": 0,
+    "calcium": 19,
+    "magnesium": 0,
+    "sulfur": 0,
+    "water": 0,
+    "cost": 25
+  },
+  {
+    "name": "Epsom Salt (Magnesium Sulfate)",
+    "nitrogen": 0,
+    "phosphorus": 0,
+    "potassium": 0,
+    "calcium": 0,
+    "magnesium": 10,
+    "sulfur": 13,
+    "water": 0,
+    "cost": 12
+  },
+  {
+    "name": "Organic Bone Meal 3-15-0",
+    "nitrogen": 3,
+    "phosphorus": 15,
+    "potassium": 0,
+    "calcium": 24,
+    "magnesium": 0.2,
+    "sulfur": 0,
+    "water": 0,
+    "cost": 26
+  },
+  {
+    "name": "Organic Blood Meal 12-0-0",
+    "nitrogen": 12,
+    "phosphorus": 0,
+    "potassium": 0,
+    "calcium": 0.5,
+    "magnesium": 0.1,
+    "sulfur": 0,
+    "water": 0,
+    "cost": 24
+  },
+  {
+    "name": "Slow-Release Lawn Food 30-0-10",
+    "nitrogen": 30,
+    "phosphorus": 0,
+    "potassium": 10,
+    "calcium": 0,
+    "magnesium": 1,
+    "sulfur": 3,
+    "water": 0,
+    "cost": 48
+  }
+]

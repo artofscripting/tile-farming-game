@@ -1,0 +1,21 @@
+{
+  "speed": 200,
+  "purchase_price": 500,
+  "tools": {
+    "plow-1": "tractor_plow_1.png",
+    "plow-3": "tractor_plow_3.png",
+    "plow-10": "tractor_plow_10.png",
+    "cultivate-1": "tractor_cultivate_1.png",
+    "cultivate-3": "tractor_cultivate_3.png",
+    "cultivate-10": "tractor_cultivate_10.png",
+    "fertilize-1": "tractor_fertilize_1.png",
+    "fertilize-3": "tractor_fertilize_3.png",
+    "fertilize-10": "tractor_fertilize_10.png",
+    "plant-1": "tractor_plant_1.png",
+    "plant-3": "tractor_plant_3.png",
+    "plant-10": "tractor_plant_10.png",
+    "harvest-1": "tractor_harvest_1.png",
+    "harvest-3": "tractor_harvest_3.png",
+    "harvest-10": "tractor_harvest_10.png"
+  }
+}

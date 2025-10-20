@@ -1,0 +1,29 @@
+{
+  "gamemode": "DEBUG",
+  "barn_max_capacity": 500,
+  "seed_bin_max_capacity": 200,
+  "map_width": 50,
+  "map_height": 25,
+  "seed_bin_capacity": 50,
+  "seed_bin_upgrade_cost": 1000,
+  "seed_bin_upgrade_amount": 25,
+  "seed_bin_upgrade_limit": 500,
+  "seed_bin_place_cost": 1000,
+  "barn_place_cost": 200,
+  "tile_purchase_price": 50,
+  "weed_growth_chance": 0.001,
+  "weed_growth_min": 1,
+  "weed_growth_max": 5,
+  "barn_upgrade_cost": 1000,
+  "barn_upgrade_amount": 100,
+  "barn_upgrade_limit": 1000,
+  "default_tile_nutrients": {
+    "nitrogen": 10,
+    "phosphorus": 8,
+    "potassium": 12,
+    "calcium": 5,
+    "magnesium": 3,
+    "sulfur": 2,
+    "water": 15
+  }
+}
